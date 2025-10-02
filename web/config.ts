@@ -1,1 +1,1 @@
-export const BASE_API_URL = *http://sample.com/api"
+const URL_BASE_API = "https://sample.com"
